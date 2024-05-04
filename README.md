@@ -1,4 +1,3 @@
 # MerkleTree-Datastructures
 ## Implementation and Vizualization of Merkle tree in python.
-# Run in Terminal, before Executing
-## pip install graphviz
+# Run in Terminal, before Executing ## pip install graphviz
