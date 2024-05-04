@@ -10,6 +10,8 @@ my sources persay. there were some portion that were more difficult to figure ou
 
 Some of my favorite parts of this were succesfully creating a merkle tree, While I did not get around to a merkle proof, I really enjoyed implementing a graphics vizualiser was a lot of fun and a good learning experiance as I hadn't used one since college and I think it was a much simpler implementation and not nearly as visually appealing.
 
+I plan to take this project a little further with a merkle proof, I believe I should be able to highlight the necessary nodes using the vizualizer if I build the edges correctly.
+
 https://www.geeksforgeeks.org/introduction-to-merkle-tree/ 
 
 https://pypi.org/project/graphviz/
