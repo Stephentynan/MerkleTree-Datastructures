@@ -1,7 +1,8 @@
 # Merkle tree in Jupyter Notebook.
 # Run in Terminal, before Executing 
 ## pip install graphviz
-## Requires a minimum of 1 inputs, beyond that feel free to try and break it. I haven't checked how many leaf nodes it can handle max but its built to ensure we always have enough leaf nodes to build the tree, copies the last element in the list indefinitley to fill.
+### Run in jupyter notebook, clone and run all cells, program will prompt you for you input, enter an empty input to proceed, you will need to select the next box to continue running the program
+### Requires a minimum of 1 inputs, beyond that feel free to try and break it. I haven't checked how many leaf nodes it can handle max but its built to ensure we always have enough leaf nodes to build the tree, copies the last element in the list indefinitley to fill.
 basic merkle tree
 vizualization of trees built.
 below are links to soucres I found helpful when researching merkle trees and implementations
