@@ -10,6 +10,6 @@ Some of my favorite parts of this were succesfully creating a merkle tree, While
 
 https://www.geeksforgeeks.org/introduction-to-merkle-tree/
 https://pypi.org/project/graphviz/
-
+https://medium.com/codex/power-of-merkle-trees-1e44819e9639
 https://onuratakan.medium.com/what-is-the-merkle-tree-with-python-example-cbb4513b8ad0
 https://www.geeksforgeeks.org/introduction-to-merkle-tree/
