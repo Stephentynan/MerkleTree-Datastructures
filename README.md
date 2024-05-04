@@ -1,4 +1,4 @@
-# Implementation and Vizualization of Merkle tree in python.
+# Merkle tree in Jupyter Notebook.
 # Run in Terminal, before Executing 
 ## pip install graphviz
 ## Requires a minimum of 1 inputs, beyond that feel free to try and break it. I haven't checked how many leaf nodes it can handle max but its built to ensure we always have enough leaf nodes to build the tree, copies the last element in the list indefinitley to fill.
