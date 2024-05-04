@@ -1,2 +1,4 @@
 # MerkleTree-Datastructures
-Basic merkle tree implementation from txt file
+## Implementation and Vizualization of Merkle tree in python.
+# may need to run command below in terminal below before executing.
+## pip install graphviz
